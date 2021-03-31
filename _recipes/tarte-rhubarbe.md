@@ -5,7 +5,7 @@ category: Dessert
 description: Réfraîchissante l'été et facile à préparer
 image: tarte-rhubarbe.jpg
 size: 8 parts
-time: 10 minutes + 30 minutes
+time: 10 minutes préparation + 30 minutes cuisson
 author: Augustine Biessy
 ---
 
@@ -27,14 +27,14 @@ author: Augustine Biessy
 * `20cl` crème semi-épaisse (4 à 20 % au choix)
 
 
-> Mélanger les oeufs et le sucre dans un saladier pendant environ `1 minute` puis rajouter la crème et mélanger de nouveau quelques secondes.
+> Mélanger les oeufs et le sucre dans un saladier pendant environ `1 minute` puis rajouter la crème et mélanger de nouveau quelques secondes. Verser le mélange sur la pâte. Normalement celui-ci devrait atteindre tous les recoins mais ne pas hésiter à pencher (légèrement !) le plat pour bien homogénéiser si ce n'est pas le cas.
 
 ---
 
-> Faire cuire au four pendant environ `30 minutes` à `180 °C`. Retourner à mi-cuisson le plat pour avoir une cuisson homogène du bord. Si la rhubarbe commence à noircir légèrement par endroits c'est qu'il est grand temps d'arrêter
+> Faire cuire au four pendant environ `30 minutes` à `180 °C`. Retourner à mi-cuisson le plat pour avoir une cuisson homogène du bord. Si la rhubarbe commence à noircir légèrement par endroits c'est qu'il est grand temps d'arrêter la cuisson !
 
 ---
 
 * `1 sachet` sucre vanillé (optionnel)
 
-> Sortir la tarte du four et saupoudrer de sucre vanillé. Laisser reposer et conserver au frigo. La laisser au frigo pendant au moins `4h` pour amplifier le côté rafraîchissant
+> Sortir la tarte du four et saupoudrer de sucre vanillé. Laisser reposer et conserver au frigo. La laisser au frigo pendant au moins `4h` avant de déguster pour amplifier le côté rafraîchissant.
