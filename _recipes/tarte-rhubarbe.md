@@ -2,7 +2,7 @@
 title: Tarte à la rhubarbe
 original_title: 
 category: Dessert
-description: Réfraîchissante l'été et facile à préparer
+description: Rafraîchissante l'été et facile à préparer
 image: tarte-rhubarbe.jpg
 size: 8 parts
 time: 10 minutes préparation + 30 minutes cuisson
@@ -18,7 +18,7 @@ author: Augustine Biessy
 
 * `500g` rhubarbe du jardin ou surgelée
 
-> Si rhubarbe surgelée la laisser au frigo pendant la nuit, ou la laisser à l'air libre pendant `2h` ou à la dernière minute la faire dégeler pendant `20 minutes` au micro-ondes position décongélation. Disposer la rhubarbe sur la pâte de manière régulière en essayant de la remplir au maximum mais en laissant de petits espaces entre les morceaux.
+> Si rhubarbe surgelée la laisser au frigo pendant la nuit, ou la laisser à l'air libre pendant `2h` ou à la dernière minute la faire dégeler pendant `15-20 minutes` au micro-ondes position décongélation. Disposer la rhubarbe sur la pâte de manière régulière en essayant de la remplir au maximum mais en laissant de petits espaces entre les morceaux.
 
 ---
 
