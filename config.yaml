@@ -20,4 +20,12 @@ strings:
   meat_label: Viande
   footer_text: N'hésitez pas à partager !
   updated_on: Dernière mise à jour le
+  edit: Modifier
+  
 
+# If you maintain your recipes in a GitHub repository, you can specify its URL
+# here – if non-empty, an "Edit" link will be shown at the bottom of each recipe
+# page, referring you to the corresponding Markdown file on GitHub. If you've
+# got some sort of continous integration (like the included GitHub Action) set
+# up, this effectively turns your site into a wiki.
+github_url: https://github.com/guillaumebiessy/recettes
