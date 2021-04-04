@@ -18,7 +18,7 @@ author: Augustine Biessy
 
 * `500g` rhubarbe du jardin ou surgelée
 
-> Si rhubarbe surgelée la laisser au frigo pendant la nuit, ou la laisser à l'air libre pendant `2h` ou à la dernière minute la faire dégeler pendant `15-20 minutes` au micro-ondes position décongélation. Disposer la rhubarbe sur la pâte de manière régulière en essayant de la remplir au maximum mais en laissant de petits espaces entre les morceaux.
+> Si rhubarbe surgelée la laisser au frigo pendant la nuit, ou la laisser à l'air libre pendant `2h` ou à la dernière minute la faire dégeler pendant `15-20 minutes` au micro-ondes position décongélation. Mettre le four à préchauffer à `180 °C`. Disposer la rhubarbe sur la pâte de manière régulière en essayant de la remplir au maximum mais en laissant de petits espaces entre les morceaux.
 
 ---
 
