@@ -135,4 +135,4 @@ TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
 
 EMOJI="🍇🍈🍉🍊🍋🍌🍍🥭🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🌶️🥒🥬🥦"
-status "All done after $TIME_TOTAL seconds!" "${EMOJI:RANDOM%${#EMOJI}:1}"
+status "All done after $TIME_TOTAL seconds!"

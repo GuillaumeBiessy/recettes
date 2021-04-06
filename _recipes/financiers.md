@@ -34,4 +34,4 @@ author: Guillaume Biessy
 
 ---
 
-> Faire cuire au four pendant environ `35 minutes` à `180 °C`. Les financiers doivent avoir un aspect doré sur le dessus. Pour tester la cuisson à l'intérieur on utilisera la pointe d'un couteau qui doit ressortir sans pâte accrochée. Attendre 10 minutes avant de démouler puis déguster encore chaud ou plus tard. Les financiers se conservent à température ambiante, recouvert d'une couche de papier aluminium, jusqu'à une semaine après les avoir fait.
+> Faire cuire au four pendant environ `35 minutes` à `180 °C`. Les financiers doivent avoir un aspect doré sur le dessus. Pour tester la cuisson à l'intérieur on utilisera la pointe d'un couteau qui doit ressortir sèche. Attendre 10 minutes avant de démouler puis déguster encore chaud ou plus tard. Les financiers se conservent à température ambiante, recouvert d'une couche de papier aluminium, jusqu'à une semaine après les avoir fait.
