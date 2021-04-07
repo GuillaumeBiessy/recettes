@@ -20,7 +20,7 @@ meat: true
 * `200-250g` de viande hâchée
 * `700-800g` de coulis de tomates
 
-> Faire blanchir la viande hâchée dans une poêle en la séparant en morceaux le plus petit possibles. Lorsque la viande est cuite couper le feu et mélanger avec la sauce tomate.
+> Faire revenir la viande hâchée dans une poêle en la séparant en morceaux le plus petit possibles. Lorsque la viande est cuite, couper le feu et mélanger avec la sauce tomate.
 
 ---
 

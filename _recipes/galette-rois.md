@@ -37,7 +37,7 @@ author: Guillaume Biessy
 
 ---
 
-> Faire cuire au four pendant environ `30 minutes` à `180 °C`. Retourner à mi-cuisson le plat pour avoir une cuisson homogène de la galette. Laisser cuire jusqu'à ce que le dessus aie une jolie couleur dorée.
+> Faire cuire au four pendant environ `30 minutes` à `180 °C`. Retourner à mi-cuisson le plat pour avoir une cuisson homogène de la galette. Laisser cuire jusqu'à ce que le dessus ait une jolie couleur dorée.
 
 ---
 
