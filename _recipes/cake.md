@@ -23,7 +23,7 @@ author: Augustine Biessy
 * `1` sachet de levure
 * `1` pincée de sel
 
-> Mettre le four à préchauffer à `180 °C`. Faire ramollir le beurre en le découpant en dés puis en le mettant pendant 40 secondes environ au micro-ondes. Mélanger dans un saladier d'abord le sucre et les oeufs pendant environ une minute puis poursuivre avec le beurre. Rajouter la levure, le sel et la farine et mélanger de nouveau. Enfin ajouter les raisins secs.
+> Mettre le four à préchauffer à `180 °C`. Faire ramollir le beurre en le découpant en dés puis en le mettant pendant `50 secondes` environ au micro-ondes. Mélanger dans un saladier d'abord le sucre et les oeufs pendant environ une minute puis poursuivre avec le beurre. Rajouter la levure, le sel et la farine et mélanger de nouveau. Enfin ajouter les raisins secs.
 
 ---
 

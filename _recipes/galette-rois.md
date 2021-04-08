@@ -15,7 +15,7 @@ author: Guillaume Biessy
 * `200g` poudre d'amande
 * `½cc` arôme d'amande amère (optionnel)
 
-> Dans un saladier, mélanger les oeufs et le sucre. Faire ramollir le beurre par exemple en le mettant pendant `40 secondes` au micro-ondes, puis l'intégrer au mélange. Ajouter l'arôme d'amande amère, et enfin la poudre d'amande pour obtenir la frangipane.
+> Dans un saladier, mélanger les oeufs et le sucre. Faire ramollir le beurre par exemple en le mettant pendant `50 secondes` au micro-ondes, puis l'intégrer au mélange. Ajouter l'arôme d'amande amère, et enfin la poudre d'amande pour obtenir la frangipane.
 
 ---
 
