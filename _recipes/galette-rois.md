@@ -31,7 +31,7 @@ author: Guillaume Biessy
 ---
 
 * `1` jaune d'oeuf
-* `4cl` de lait
+* `4cl` lait
 
 > Mélanger le `jaune d'oeuf` et le `lait`. A l'aide d'un pinceau de cuisine barbouiller la `pâte` à l'aide du mélange sans oublier les bords. A l'aide d'un couteau, pratiquer de petites incisions sur le sommet de la `pâte` pour dessiner un motif. En plus du côté esthétique, cette étape va permettre à l'air de s'échapper, ce qui évitera à la `pâte` du dessus de gonfler et de se désolidariser du reste de la galette. Des incisions trop profondes empêcheront par contre totalement la galette de gonfler.
 
