@@ -3,7 +3,7 @@ title: Fondant au chocolat
 original_title: 
 category: Dessert
 description: Réchauffe même le plus raisonnable des coeurs
-image: fondant_chocolat.jpg
+image: fondant-chocolat.jpg
 size: 10 parts
 time: 10 minutes préparation + 20 minutes cuisson
 author: Guillaume Biessy
