@@ -23,7 +23,7 @@ author: Augustine Biessy
 * `1` sachet de levure
 * `1` pincée de sel
 
-> Mettre le four à préchauffer à `180 °C`. Faire ramollir le `beurre` en le découpant en dés puis en le mettant pendant `50 secondes` environ au micro-ondes. Dans un grand saladier, rajouter successivement en mélangeant à chaque étape à l'aide d'un fouet : les `oeufs`, le `sucre`, le `beurre`. Ajouter la `farine` et la `levure` et mélanger à l'aide d'une cuillère. Enfin rajouter les `raisins` et mélanger de nouveau.
+> Mettre le four à préchauffer à `180 °C`. Faire ramollir le `beurre` en le découpant en dés puis en le mettant pendant `40 secondes` environ au micro-ondes. Dans un grand saladier, rajouter successivement en mélangeant à chaque étape à l'aide d'un fouet : les `oeufs`, le `sucre`, le `beurre`. Ajouter la `farine` et la `levure` et mélanger à l'aide d'une cuillère. Enfin rajouter les `raisins` et mélanger de nouveau.
 
 ---
 
