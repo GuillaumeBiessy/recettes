@@ -13,6 +13,7 @@ author: Augustine Biessy
 * `800g` pommes
 
 > Eplucher les pommes et les couper en quartiers ou mieux en rondelles. Avec un éplucheur de pommes, une fois la pomme détrognée et coupée en spirale, il suffit de la couper verticalement en 4 ou 6 pour arriver au résultat. Cela permet de gagner `10 minutes` sur la recette.
+
 ---
 
 * `30g` beurre
