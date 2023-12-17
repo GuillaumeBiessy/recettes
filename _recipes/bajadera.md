@@ -3,7 +3,7 @@ title: Bajadera
 original_title: 
 category: Dessert
 description: Chocolat Noix
-image: cake.jpg
+image: bajadera.jpg
 size: 12 parts
 time: 30 minutes préparation
 author: Bojana
