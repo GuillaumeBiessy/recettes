@@ -31,8 +31,6 @@ author: Bojana
 
 ---
 
-* `100g` chocolat noir
-
 > Beurrer le fond d'un grand moule (35 x 20 cm) puis étaler la partie chocolatée du mélange en tassant bien puis lisser la surface. Répéter ensuite avec la seconde partie pour faire une deuxième couche.
 
 ---
